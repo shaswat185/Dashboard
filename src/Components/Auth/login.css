@@ -1,0 +1,50 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #f8f9fa;
+  }
+  
+  .login-page {
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/1600x900/?nature,water');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .card {
+    background: rgba(255, 255, 255, 0.9);
+  }
+  
+  .card-title {
+    color: #007bff;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+  }
+  
+  .form-control {
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .form-control:focus {
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+  }
+  
+  .btn-primary:focus {
+    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
