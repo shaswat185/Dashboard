@@ -1,0 +1,52 @@
+.document-section {
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-left: 40vh;
+    margin-top: -96vh;
+  }
+
+  .upload-container {
+    margin-bottom: 20px;
+  }
+  
+  .upload-label {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  #file-upload {
+    display: none;
+  }
+  
+  .document-list {
+    margin-top: 20px;
+  }
+  
+  .document-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+  }
+  
+  .action-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .download-btn {
+    color: green;
+  }
+  
+  .delete-btn {
+    color: red;
+  }
+  

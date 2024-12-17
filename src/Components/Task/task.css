@@ -1,0 +1,40 @@
+.task{
+    margin-left: 40vh;
+    margin-top: -96vh;
+}
+
+
+
+/* Mobile Styles */
+@media (max-width: 600px) {
+    .task {
+        margin-left: 40vh;
+        margin-top: -96vh;
+
+    }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+        width: 90%; /* Ensure it takes 90% of the viewport width */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .container {
+        padding: 15px;
+        width: 80%; /* Take 80% of the width */
+    }
+}
+
+/* Large screens */
+@media (min-width: 1025px) {
+    .container {
+        padding: 20px;
+        width: 70%; /* Take 70% of the width */
+    }
+}
+

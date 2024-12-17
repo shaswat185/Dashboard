@@ -4,7 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUsers, faSuitcase, faUser } from '@fortawesome/free-solid-svg-icons';
 
 const Dashboard = () => {
-    console.log('Dashboard is rendering');
   return (
    <>
     <div className='container'>
@@ -49,6 +48,7 @@ const Dashboard = () => {
           </div>
         </div>
       </div>
+   
     </div>
    </>
   );

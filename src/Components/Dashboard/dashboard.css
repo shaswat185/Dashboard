@@ -1,26 +1,25 @@
-.container{
-margin-left: 40vh;
-margin-top: -92vh;
+.container {
+  margin-left: 40vh;
+    margin-top: -96vh;
 }
 
-.emp-text{
-    font-size:12px;
-    color: #b3a4aa;
+.emp-text {
+  font-size: 12px;
+  color: #b3a4aa;
 }
 
-.emp{
-    background-color: #feeaf0;
+.emp {
+  background-color: #feeaf0;
 }
 
-.job{
-    background-color: #fff0d3;
+.job {
+  background-color: #fff0d3;
 }
 
-.new-appli{
-    background-color: #c9fbe2;
+.new-appli {
+  background-color: #c9fbe2;
 }
 
-.notifications{
-    background-color: #008ff9;
+.notifications {
+  background-color: #008ff9;
 }
-

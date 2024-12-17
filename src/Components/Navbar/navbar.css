@@ -1,4 +1,4 @@
-.profile-img{
+ .profile-img{
     width: 40px;
 }
 
@@ -11,4 +11,8 @@
   .profile-img {
     border: none;
   }
-  
+
+  .dropdown-toggle::after {
+    display: none ;
+  }
+

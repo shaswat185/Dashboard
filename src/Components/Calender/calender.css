@@ -1,0 +1,8 @@
+.container{
+    margin-left: 40vh;
+    margin-top: -96vh;
+}
+
+.fc {
+    height: 300px; /* Set a fixed height for the calendar */
+  }

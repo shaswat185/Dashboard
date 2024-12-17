@@ -1,10 +1,9 @@
-.chart-bar{
-    margin-top: 20px;
+.chart-bar {
+  margin-left: 40vh;
+    margin-top: -96vh;
 }
 
-
 .chart-bar {
-   height: auto;
-   width: 120vh;
-   margin-left: 46vh;
+  height: auto;
+  width: 100vh;
 }
